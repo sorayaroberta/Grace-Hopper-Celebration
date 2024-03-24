@@ -1,0 +1,1 @@
+Para conferir a implementação do código comentada e as motivações, leia este post: [Arrumando a mochila para o GHC](https://medium.com/brazilians-in-tech/arrumando-a-mochila-para-a-ghc-2023-com-algoritmo-gen%C3%A9tico-e-python-44d7f72daac0)
